@@ -9,12 +9,37 @@ Data Link Layer is second layer of OSI Layered Model. Data link layer is respons
 5.flow control 
 6.multi-access
 
-Tyes of errors
-single bit error:In a frame, there is only one bit, anywhere though, which is corrupt.
-Multiple bits error:Frame is received with more than one bits in corrupted state.
-Burst error:Frame contains more than1 consecutive bits corrupted.
+3.Tyes of errors
+  single bit error:In a frame, there is only one bit, anywhere though, which is corrupt.
+  Multiple bits error:Frame is received with more than one bits in corrupted state.
+  Burst error:Frame contains more than1 consecutive bits corrupted.
 
-What are the error control mechanism?
-1.error detection
-2.error correction
+4.What are the error control mechanism?
+  1.error detection
+  2.error correction
 
+5.In Ethernet when Manchester encoding is used, the bit rate is:
+  a.half the baud rate
+  b.twice the baud rate
+  c.same as the baud rate
+  d.none of the above
+  Answer: half of the baud rate.
+  
+ 6.What is Baud rate?
+  Baud rate represents the number of times per second a signal (changing from zero to one or one to zero) or symbol
+  (the connection's voltage, frequency or phase) in a communications channel changes state or varies. For example, a 2,400 baud rate
+  means the channel is changing states up to 2,400 times per second.
+  
+ 4. Header of a frame generally contains
+a) synchronization bytes
+b) addresses
+c) frame identifier
+d) all of the mentioned
+Answer:d
+
+8. Which one of the following is a data link protocol?
+a) ethernet
+b) point to point protocol
+c) HDLC
+d) all of the mentioned
+Answer:d
