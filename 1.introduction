@@ -14,13 +14,18 @@ application sharing , lan gaming and many more.
      Full Duplex :- Both stations can transmit and receive simultaneously
 
 5. What are the various network topologies ? 
-
+    1.Bus
+    2.Ring
+    3.Star
+    4.Mesh
+    5.Tree
+    6.Hybrid
 
 6. Compare network topologies 
-
+    
 
 7. What is internet ?
-
+    
 8. Two devices are in network if
     a) a process in one device is able to exchange information with a process in another device
     b) a process is running on both devices
